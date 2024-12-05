@@ -1,4 +1,4 @@
-# Quiz App with GUI
+# Quiz App with GUI (Indonesian version)
 
 This is a Python-based quiz application with an interactive graphical user interface (GUI) built using `tkinter`. Test your knowledge across various categories with this fun and engaging quiz app!
 
@@ -12,7 +12,7 @@ This is a Python-based quiz application with an interactive graphical user inter
 
 ---
 
-## Screenshot
+## Example
 ![Quiz App Screenshot](screenshot1.png)
 
 ---
@@ -28,4 +28,8 @@ To run this application, you need:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/quiz-app.git
+   https://github.com/rexzea/simple-quiz.git
+
+
+**Load in Python Terminal**
+python quiz_rexzea1.py
